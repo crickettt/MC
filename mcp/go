@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Run "glances"
+screen -dmS glances bash -c 'glances; exec bash'
+
+# Run "gas"
+screen -dmS gas bash -c 'java -Xmx12288M -Xms12288M -jar server.jar nogui; exec bash'
+
+# Run "ngrok"
+screen -dmS ngrok bash -c 'ngrok start --config ~/.config/ngrok/ngrok.yml --all; exec bash'
+
+# Run "playit"
+screen -dmS playit bash -c 'playit; exec bash'

@@ -1,0 +1,246 @@
+[10:36:08] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
+[10:36:08] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-128-master@d348cb8 (2024-10-21T16:23:24Z) for Minecraft 1.21.1
+[10:36:09] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[10:36:12] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[10:36:12] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - AuraSkills (2.2.4), AxGraves (1.14.6), Back (1.0), Chunky (1.4.10), Geyser-Spigot (2.4.4-SNAPSHOT), SinglePlayerSleep (1.16_2.13.53), Veinminer (2.1.5), villagerinfinitetrading (1.0)
+[10:36:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:36:20] [ServerMain/INFO]: Loaded 1290 recipes
+[10:36:20] [ServerMain/INFO]: Loaded 1399 advancements
+[10:36:20] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[10:36:20] [Server thread/INFO]: Loading properties
+[10:36:20] [Server thread/INFO]: This server is running Paper version 1.21.1-128-master@d348cb8 (2024-10-21T16:23:24Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[10:36:21] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[10:36:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:36:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:36:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[10:36:23] [Server thread/INFO]: Default game type: SURVIVAL
+[10:36:23] [Server thread/INFO]: Generating keypair
+[10:36:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:36:23] [Server thread/INFO]: Using epoll channel type
+[10:36:23] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[10:36:23] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[10:36:23] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
+[10:36:23] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MC/mcp/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.0.20/kotlin-stdlib-2.0.20.jar
+[10:36:23] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MC/mcp/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[10:36:23] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MC/mcp/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
+[10:36:23] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MC/mcp/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
+[10:36:23] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MC/mcp/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
+[10:36:23] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MC/mcp/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
+[10:36:23] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MC/mcp/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
+[10:36:23] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MC/mcp/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
+[10:36:23] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MC/mcp/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
+[10:36:23] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MC/mcp/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
+[10:36:23] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MC/mcp/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
+[10:36:24] [Server thread/INFO]: [SinglePlayerSleep] Loading server plugin SinglePlayerSleep v1.16_2.13.53
+[10:36:24] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.14.6
+[10:36:24] [Server thread/INFO]: [AxGraves] Loading library commons-math3
+[10:36:24] [Server thread/INFO]: [AxGraves] Loading library caffeine
+[10:36:24] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.1.5
+[10:36:25] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.4-SNAPSHOT
+[10:36:26] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[10:36:26] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[10:36:26] [Server thread/INFO]: [villagerinfinitetrading] Loading server plugin villagerinfinitetrading v1.0
+[10:36:26] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.10
+[10:36:26] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.2.4
+[10:36:26] [Server thread/INFO]: [Back] Loading server plugin Back v1.0
+[10:36:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:36:26] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.1.5
+[10:36:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:36:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:36:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:36:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:36:26] [Server thread/INFO]: Preparing level "world"
+[10:36:27] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is outdated. Installed: 2.1.5 -> Latest: 2.2.0
+[10:36:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:36:28] [Server thread/INFO]: Time elapsed: 1605 ms
+[10:36:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:36:29] [Server thread/INFO]: Time elapsed: 418 ms
+[10:36:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:36:29] [Server thread/INFO]: Time elapsed: 290 ms
+[10:36:29] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.16_2.13.53
+[10:36:29] [Server thread/INFO]: [SinglePlayerSleep] **************************************
+[10:36:29] [Server thread/INFO]: [SinglePlayerSleep] v1.16_2.13.53 Loading...
+[10:36:29] [Server thread/INFO]: [SinglePlayerSleep] Jar Filename: SinglePlayerSleep-1.16_2.13.53.jar
+[10:36:29] [Server thread/INFO]: [SinglePlayerSleep] Server Version: 1.21.1-128-d348cb8 (MC: 1.21.1)
+[10:36:29] [Server thread/INFO]: [SinglePlayerSleep] [Warning] Version 1.21.1 has not yet been tested! Proceed with caution.
+[10:36:29] [Server thread/INFO]: [SinglePlayerSleep] Loading file version checker...
+[10:36:29] [Server thread/INFO]: [SinglePlayerSleep] Loading config file...
+[10:36:29] [Server thread/INFO]: [SinglePlayerSleep] Loading messages file...
+[10:36:29] [Server thread/INFO]: [SinglePlayerSleep] Loading config.yml...
+[10:36:29] [Server thread/INFO]: [SinglePlayerSleep] Loading messages.yml...
+[10:36:29] [Server thread/INFO]: [SinglePlayerSleep] Checking for updates...
+[10:36:30] [Server thread/INFO]: [SinglePlayerSleep] *!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*
+[10:36:30] [Server thread/INFO]: [SinglePlayerSleep] * Version is up to date!
+[10:36:30] [Server thread/INFO]: [SinglePlayerSleep] * Donate: https://ko-fi.com/joelgodofwar
+[10:36:30] [Server thread/INFO]: [SinglePlayerSleep] *!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*
+[10:36:30] [Server thread/INFO]: [SinglePlayerSleep] plugins/SinglePlayerSleep/permissions.yml
+[10:36:30] [Server thread/INFO]: [SinglePlayerSleep]  v1.16_2.13.53 is ENABLED - Loading took 952 ms.
+[10:36:30] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.14.6
+[10:36:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.4-SNAPSHOT
+[10:36:31] [Server thread/INFO]: [villagerinfinitetrading] Enabling villagerinfinitetrading v1.0
+[10:36:31] [Server thread/INFO]: [villagerinfinitetrading] InfiniteVillagerTrades enabled!
+[10:36:31] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.10
+[10:36:31] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.4
+[10:36:32] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[10:36:33] [Server thread/INFO]: [AuraSkills] Loaded 150 config options in 25 ms
+[10:36:33] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.1! Trying to find NMS support
+[10:36:33] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[10:36:33] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[10:36:33] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[10:36:33] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[10:36:34] [Server thread/INFO]: [Back] Enabling Back v1.0
+[10:36:34] [Server thread/INFO]: [BackPlugin] Works!
+[10:36:34] [Server thread/INFO]: [spark] Starting background profiler...
+[10:36:35] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:36:35] [Server thread/INFO]: [Geyser-Spigot] 
+[10:36:35] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.4-b696 (git-master-6331cb6)
+[10:36:35] [Server thread/INFO]: [Geyser-Spigot] 
+[10:36:35] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:36:42] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[10:36:42] [Server thread/INFO]: [Geyser-Spigot] Done (6.933s)! Run /geyser help for help!
+[10:36:42] [Server thread/INFO]: Done preparing level "world" (16.310s)
+[10:36:42] [Server thread/INFO]: Running delayed init tasks
+[10:36:44] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[10:36:44] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[10:36:44] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[10:36:44] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[10:36:44] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:36:44] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[10:36:44] [Server thread/INFO]: Done (38.112s)! For help, type "help"
+[10:36:44] [Server thread/INFO]: Timings Reset
+[10:36:45] [Craft Scheduler Thread - 3 - AxGraves/INFO]: AxGraves » There is a new version of AxGraves available! (current: 1.14.6 | latest: 1.15.0)
+[10:45:34] [User Authenticator #0/INFO]: UUID of player Arinaaanas is b9b1185a-1ee2-3c10-acb4-869b4c833698
+[10:45:36] [Server thread/INFO]: Arinaaanas joined the game
+[10:45:36] [Server thread/INFO]: Arinaaanas[/127.229.175.165:39511] logged in with entity id 19 at ([world_nether]218.36403034225825, 74.0, 273.0490599185479)
+[10:55:57] [User Authenticator #1/INFO]: UUID of player Arinaaanas is b9b1185a-1ee2-3c10-acb4-869b4c833698
+[10:55:57] [Server thread/INFO]: Arinaaanas lost connection: You logged in from another location
+[10:55:57] [Server thread/INFO]: Arinaaanas left the game
+[10:55:58] [Server thread/INFO]: Arinaaanas joined the game
+[10:55:58] [Server thread/INFO]: Arinaaanas[/127.15.195.104:55273] logged in with entity id 1472 at ([world]1232.6932901994508, 28.0, 1881.8072367051082)
+[11:08:29] [Server thread/INFO]: Arinaaanas lost connection: Disconnected
+[11:08:29] [Server thread/INFO]: Arinaaanas left the game
+[11:17:03] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Wayaylah
+[11:17:03] [localSession-7-2/INFO]: [Geyser-Spigot] Wayaylah (logged in as: Wayaylah) has connected to the Java server
+[11:17:03] [User Authenticator #2/INFO]: UUID of player Wayaylah is 58e35cdd-8315-317d-904c-4b42f756c4dd
+[11:17:03] [Server thread/INFO]: Wayaylah joined the game
+[11:17:03] [Server thread/INFO]: Wayaylah[/127.0.0.1:0] logged in with entity id 2856 at ([world]255.70792, 67.0, 1241.3115)
+[11:17:48] [Async Chat Thread - #0/INFO]: [Not Secure] <Wayaylah> oi
+[11:18:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Wayaylah> g ada orang :(
+[11:19:39] [localSession-7-2/INFO]: [Geyser-Spigot] Wayaylah has disconnected from the Java server because of Bedrock client disconnected
+[11:19:39] [Server thread/INFO]: Wayaylah lost connection: Disconnected
+[11:19:39] [Server thread/INFO]: Wayaylah left the game
+[11:23:34] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Wayaylah
+[11:23:34] [localSession-7-3/INFO]: [Geyser-Spigot] Wayaylah (logged in as: Wayaylah) has connected to the Java server
+[11:23:34] [User Authenticator #3/INFO]: UUID of player Wayaylah is 58e35cdd-8315-317d-904c-4b42f756c4dd
+[11:23:34] [Server thread/INFO]: Wayaylah joined the game
+[11:23:34] [Server thread/INFO]: Wayaylah[/127.0.0.1:0] logged in with entity id 3480 at ([world]245.87567, 67.0, 1230.5646)
+[11:24:08] [localSession-7-3/INFO]: [Geyser-Spigot] Wayaylah has disconnected from the Java server because of Bedrock client disconnected
+[11:24:08] [Server thread/INFO]: Wayaylah lost connection: Disconnected
+[11:24:08] [Server thread/INFO]: Wayaylah left the game
+[11:24:47] [User Authenticator #4/INFO]: UUID of player Telacius is de222534-9613-3232-b90b-76f44d63642c
+[11:24:48] [Server thread/INFO]: Telacius joined the game
+[11:24:48] [Server thread/INFO]: Telacius[/127.163.114.205:32989] logged in with entity id 3825 at ([world]256.2363276335637, 67.0, 1243.7715943618296)
+[11:26:03] [User Authenticator #5/INFO]: UUID of player Arinaaanas is b9b1185a-1ee2-3c10-acb4-869b4c833698
+[11:26:04] [Server thread/INFO]: Arinaaanas joined the game
+[11:26:04] [Server thread/INFO]: Arinaaanas[/127.15.195.104:59233] logged in with entity id 4366 at ([world]1234.2540236598566, 28.0, 1881.8664928313224)
+[11:26:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Telacius> hai
+[11:26:21] [Async Chat Thread - #2/INFO]: [Not Secure] <Arinaaanas> woi ayo end portal
+[11:26:30] [Async Chat Thread - #2/INFO]: [Not Secure] <Telacius> ntar ah
+[11:26:33] [Async Chat Thread - #2/INFO]: [Not Secure] <Telacius> malaz
+[11:26:42] [Async Chat Thread - #2/INFO]: [Not Secure] <Arinaaanas> solo aj gw deh
+[11:26:44] [Server thread/INFO]: Arinaaanas has made the advancement [The End?]
+[11:26:46] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[11:26:46] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[11:26:48] [Async Chat Thread - #2/INFO]: [Not Secure] <Telacius> yasudah
+[11:26:54] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Wayaylah
+[11:26:54] [localSession-7-4/INFO]: [Geyser-Spigot] Wayaylah (logged in as: Wayaylah) has connected to the Java server
+[11:26:54] [User Authenticator #5/INFO]: UUID of player Wayaylah is 58e35cdd-8315-317d-904c-4b42f756c4dd
+[11:26:54] [Server thread/INFO]: Wayaylah joined the game
+[11:26:54] [Server thread/INFO]: Wayaylah[/127.0.0.1:0] logged in with entity id 4871 at ([world]245.87567, 67.0, 1230.5646)
+[11:27:16] [Async Chat Thread - #2/INFO]: [Not Secure] <Wayaylah> oi
+[11:27:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Telacius> yo
+[11:27:55] [localSession-7-4/INFO]: [Geyser-Spigot] Wayaylah has disconnected from the Java server because of Bedrock client timed out
+[11:27:55] [Server thread/INFO]: Wayaylah lost connection: Disconnected
+[11:27:55] [Server thread/INFO]: Wayaylah left the game
+[11:29:24] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Wayaylah
+[11:29:24] [localSession-7-1/INFO]: [Geyser-Spigot] Wayaylah (logged in as: Wayaylah) has connected to the Java server
+[11:29:24] [User Authenticator #6/INFO]: UUID of player Wayaylah is 58e35cdd-8315-317d-904c-4b42f756c4dd
+[11:29:24] [Server thread/INFO]: Wayaylah joined the game
+[11:29:24] [Server thread/INFO]: Wayaylah[/127.0.0.1:0] logged in with entity id 5475 at ([world]247.72725, 66.0, 1248.6396)
+[11:29:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Wayaylah> gw keluar masuk mulu syalan
+[11:30:04] [Async Chat Thread - #4/INFO]: [Not Secure] <Telacius> santaii
+[11:30:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Telacius> anjay lu masak cobblestone?
+[11:31:07] [Async Chat Thread - #4/INFO]: [Not Secure] <Wayaylah> mw bikin rumah
+[11:31:16] [Async Chat Thread - #4/INFO]: [Not Secure] <Wayaylah> base biasa doang sih
+[11:31:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Telacius> apaan
+[11:32:00] [Async Chat Thread - #4/INFO]: [Not Secure] <Wayaylah> g dc
+[11:32:10] [Async Chat Thread - #4/INFO]: [Not Secure] <Telacius> malas gw sambil nonton soalny
+[11:32:16] [Async Chat Thread - #4/INFO]: [Not Secure] <Wayaylah> ok
+[11:32:26] [Async Chat Thread - #4/INFO]: [Not Secure] <Wayaylah> ada gw ama kaka doang soalnya
+[11:32:48] [Async Chat Thread - #4/INFO]: [Not Secure] <Telacius> oooo
+[11:33:12] [Async Chat Thread - #4/INFO]: [Not Secure] <Telacius> kuda gw
+[11:33:23] [Async Chat Thread - #4/INFO]: [Not Secure] <Wayaylah> pinjam
+[11:33:26] [Async Chat Thread - #5/INFO]: [Not Secure] <Telacius> g
+[11:33:30] [Async Chat Thread - #5/INFO]: [Not Secure] <Telacius> susah cari saddlenya
+[11:33:36] [Async Chat Thread - #5/INFO]: [Not Secure] <Wayaylah> gw gabut nungguin cablestone
+[11:33:46] [Async Chat Thread - #5/INFO]: [Not Secure] <Telacius> sambil mining sana
+[11:33:50] [Async Chat Thread - #5/INFO]: [Not Secure] <Wayaylah> gw pake buat muter muterin pager
+[11:34:03] [Async Chat Thread - #5/INFO]: [Not Secure] <Telacius> yaudh
+[11:47:41] [Async Chat Thread - #6/INFO]: [Not Secure] <Arinaaanas> ah kontol armor pecah
+[11:47:47] [Async Chat Thread - #6/INFO]: [Not Secure] <Telacius> bikin lagi tuh
+[11:47:53] [Async Chat Thread - #6/INFO]: [Not Secure] <Arinaaanas> gada
+[11:48:02] [Async Chat Thread - #6/INFO]: [Not Secure] <Telacius> dichest ambil aja diamond secukupny
+[11:48:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Arinaaanas> gw di end
+[11:48:17] [Async Chat Thread - #6/INFO]: [Not Secure] <Telacius> mampus
+[11:48:25] [Async Chat Thread - #6/INFO]: [Not Secure] <Telacius> maksud w mampua
+[11:48:28] [Async Chat Thread - #6/INFO]: [Not Secure] <Wayaylah> wkwkw
+[11:49:50] [Async Chat Thread - #8/INFO]: [Not Secure] <Telacius> gw ketemu ravine bawah tanah jir
+[11:49:59] [Async Chat Thread - #8/INFO]: [Not Secure] <Wayaylah> anjg g sengaja nimpuk telor kena Golem
+[11:50:33] [Async Chat Thread - #8/INFO]: [Not Secure] <Telacius> awokoakoak
+[11:50:46] [Async Chat Thread - #8/INFO]: [Not Secure] <Wayaylah> w bunuh ya
+[11:50:51] [Async Chat Thread - #8/INFO]: [Not Secure] <Telacius> bunuh wae
+[11:51:55] [Async Chat Thread - #10/INFO]: [Not Secure] <Arinaaanas> awokawok enderman ngamok ngejar naga
+[11:52:03] [Async Chat Thread - #10/INFO]: [Not Secure] <Arinaaanas> psht njir
+[11:52:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Telacius> psht woilah akwoskdskos
+[11:52:19] [Async Chat Thread - #10/INFO]: [Not Secure] <Wayaylah> bisa gitu
+[11:53:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Wayaylah> co
+[11:53:16] [Async Chat Thread - #10/INFO]: [Not Secure] <Telacius> napa
+[11:53:25] [Async Chat Thread - #10/INFO]: [Not Secure] <Wayaylah> g ada spruce wood?
+[11:53:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Telacius> ga ada
+[11:53:37] [Async Chat Thread - #10/INFO]: [Not Secure] <Wayaylah> yah :(
+[11:56:12] [localSession-7-1/INFO]: [Geyser-Spigot] Wayaylah has disconnected from the Java server because of Bedrock client disconnected
+[11:56:12] [Server thread/INFO]: Wayaylah lost connection: Disconnected
+[11:56:12] [Server thread/INFO]: Wayaylah left the game
+[11:56:28] [Async Chat Thread - #12/INFO]: [Not Secure] <Arinaaanas> naga cupu
+[12:02:21] [Async Chat Thread - #14/INFO]: [Not Secure] <Arinaaanas> gak turun jing ini kelelawar
+[12:03:33] [Server thread/INFO]: Telacius issued server command: /pl
+[12:07:05] [Server thread/INFO]: Arinaaanas was doomed to fall by Ender Dragon
+[12:07:13] [Async Chat Thread - #16/INFO]: [Not Secure] <Arinaaanas> fuck
+[12:08:29] [Server thread/INFO]: Arinaaanas issued server command: /back
+[12:08:36] [Server thread/INFO]: Arinaaanas issued server command: /back
+[12:08:46] [Server thread/INFO]: Arinaaanas has made the advancement [Take Aim]
+[12:09:08] [Server thread/INFO]: Arinaaanas issued server command: /back
+[12:10:00] [Async Chat Thread - #18/INFO]: [Not Secure] <Arinaaanas> wah jam set 8 mt server ya
+[12:10:08] [Async Chat Thread - #18/INFO]: [Not Secure] <Arinaaanas> plugin ad yg ga work nih kontol
+[12:10:12] [Async Chat Thread - #18/INFO]: [Not Secure] <Telacius> huh
+[12:10:18] [Async Chat Thread - #18/INFO]: [Not Secure] <Telacius> ok
+[12:11:54] [Server thread/WARN]: Horse (vehicle of Telacius) moved wrongly! 0.6718008275535112
+[12:13:15] [Async Chat Thread - #20/INFO]: [Not Secure] <Telacius> yo
+[12:13:23] [Async Chat Thread - #20/INFO]: [Not Secure] <Arinaaanas> coor stonghold brp cok
+[12:13:44] [Async Chat Thread - #20/INFO]: [Not Secure] <Telacius> tapi ga ada ender eyesny gapapa?
+[12:13:50] [Async Chat Thread - #20/INFO]: [Not Secure] <Telacius> udh gw looting jg
+[12:13:53] [Async Chat Thread - #20/INFO]: [Not Secure] <Arinaaanas> udah gw isi kentot
+[12:13:56] [Server thread/INFO]: Arinaaanas issued server command: /brp
+[12:13:59] [Async Chat Thread - #20/INFO]: [Not Secure] <Telacius> mana gw tw
+[12:13:59] [Async Chat Thread - #21/INFO]: [Not Secure] <Arinaaanas> brp
+[12:14:03] [Async Chat Thread - #21/INFO]: [Not Secure] <Telacius> ya bentar
+[12:14:26] [Async Chat Thread - #21/INFO]: [Not Secure] <Telacius> 1236 12860
+[12:14:31] [Async Chat Thread - #21/INFO]: [Not Secure] <Telacius> 1860*
+[12:14:43] [Async Chat Thread - #21/INFO]: [Not Secure] <Telacius> lah
+[12:16:13] [Server thread/WARN]: Horse (vehicle of Telacius) moved wrongly! 0.30293276738535724
+[12:16:13] [Server thread/WARN]: Horse (vehicle of Telacius) moved wrongly! 0.7067575059978708
+[12:24:18] [Server thread/WARN]: Horse (vehicle of Telacius) moved wrongly! 0.265303908170439
+[12:27:03] [Server thread/INFO]: Arinaaanas has made the advancement [Free the End]
+[12:27:18] [Async Chat Thread - #22/INFO]: [Not Secure] <Arinaaanas> gg cok
+[12:28:05] [Server thread/INFO]: Arinaaanas has reached the goal [The Next Generation]
